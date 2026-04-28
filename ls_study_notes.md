@@ -63,7 +63,7 @@
 
 - **The Killer Example**:
   ```python
-  num = 123
+    num = 123
   str_num = '123'
 
   print(str(num))      # Outputs: 123
